@@ -1,0 +1,32 @@
+#body{
+    display:flex;
+    background-color: cadetblue;
+}
+.left,.left1,.right{
+    width:33vw;
+    text-align: center;
+    /*background-color: green;*/
+    margin:10px;
+    background-color: blanchedalmond;
+}
+
+.element{
+    padding : 10px;
+    background-color: aquamarine;
+    margin:20px;
+    border-radius: 10px;
+}
+img{
+    width:20vw;
+    height:20vw;
+    border-radius: 50%;
+}
+
+.h3{
+    font-size:1.4em;
+}
+p{
+    font-size: 1.2em;
+}
+
+
